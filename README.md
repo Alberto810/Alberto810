@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+---
 
 # Sobre Mim: 
 
@@ -28,6 +29,8 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 -Boas práticas e arquitetura de sistemas
 
 🎯 Objetivo: conquistar oportunidades que me permitam crescer profissionalmente, contribuir com projetos inovadores e gerar impacto positivo através da tecnologia.
+
+---
 
 # Minhas Skills: 
 
