@@ -92,7 +92,4 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 </br>
 </div>  
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Alberto/Alberto/output/snake.svg" alt="Snake animation" />
 
