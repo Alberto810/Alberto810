@@ -54,7 +54,7 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 #### 🚀 Linguagens:
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Python-32547e?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div> 
 
 #### ⚙️ Frameworks Back-end:
@@ -85,6 +85,12 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/HTML-a00909?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS" height="" width="" src="https://img.shields.io/badge/CSS-002fff?style=for-the-badge&logo=css3&logoColor=white">
 
+  
+<div style="display: inline_block">
+  <img align="center" alt="JAVA" height="20" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/java-000000?logo=abletonlive&logoColor=white&style=for-the-badge"/>
+ 
+</div>
 
 
 </div>  
