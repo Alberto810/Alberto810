@@ -68,7 +68,6 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 
 #### 🧪 Ferramentas & Ambiente:
 <div style="display: inline_block">
-<img align="center" alt="Node" height="" width="" src="https://img.shields.io/badge/Node-075504?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div> 
 
