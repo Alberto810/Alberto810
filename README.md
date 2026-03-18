@@ -5,8 +5,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alberto810&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alberto810&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alberto810&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_=true&disable_animations=false&theme=dark&locale=pt-br&hide_border" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alberto810&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border" height="150" alt="languages graph"  />
 </div>
 <br>
 
@@ -54,7 +54,7 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 #### 🚀 Linguagens:
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Python-32547e?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="" height="" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
 </div> 
 
 #### ⚙️ Frameworks Back-end:
@@ -85,10 +85,12 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/HTML-a00909?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS" height="" width="" src="https://img.shields.io/badge/CSS-002fff?style=for-the-badge&logo=css3&logoColor=white">
 
-  
+
+
 </div>  
 
-  
+
+
 </div>  
  
 </br>
