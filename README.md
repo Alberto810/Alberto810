@@ -90,9 +90,9 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 #### 
 
 <div style="display: inline_block">
-<img align="center" alt="" height="20" width="" 
+<img align="center" alt="" height="20" width="20" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java programming language logo"  />
-<img align="center" alt="JAVA" height="20" width="40"
+<img align="center" alt="JAVA" height="40" width="40"
 src="https://img.shields.io/badge/Java-000000?style=for-the-badge&">
 </div>
 
