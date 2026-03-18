@@ -54,8 +54,9 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 #### 🚀 Linguagens:
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Python-32547e?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 </div> 
 
 #### ⚙️ Frameworks Back-end:
