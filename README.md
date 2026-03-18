@@ -86,18 +86,6 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 <img align="center" alt="CSS" height="" width="" src="https://img.shields.io/badge/CSS-002fff?style=for-the-badge&logo=css3&logoColor=white">
 
 
-
-#### 
-
-<div style="display: inline_block">
-<img align="center" alt="" height="20" width="20" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java programming language logo"  />
-<img align="center" alt="JAVA" height="20" width="40"
-src="https://img.shields.io/badge/Java-000000?style=for-the-badge&">
-</div>
-
-
-
 </div>
   
 </div>  
