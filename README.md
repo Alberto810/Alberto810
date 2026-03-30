@@ -4,10 +4,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alberto810&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alberto810&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="200" alt="languages graph"  />
-</div>
 <br>
 
 <a href="https://v0-portfolio-engenheiro-software.vercel.app/#inicio" target="_blank">
