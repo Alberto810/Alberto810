@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<a href="https://v0-portfolio-engenheiro-software.vercel.app/#inicio" target="_blank">
+<a href="https://alberto-portfolio-engenheiro-software.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 <a href="linkedin.com/in/alberto-henrique-1a9317365" target="_blank">
