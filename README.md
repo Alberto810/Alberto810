@@ -28,13 +28,13 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 
 -Desenvolvimento de Software
 
--APIs e Microsserviços
+-APIs e Engenharia de Dados
 
 -Inteligência Artificial
 
--Java, Python e tecnologias web
+-Python e Tecnologias Web
 
--Boas práticas e arquitetura de sistemas
+-Arquitetura de Sistemas
 
 🎯 Objetivo: conquistar oportunidades que me permitam crescer profissionalmente, contribuir com projetos inovadores e gerar impacto positivo através da tecnologia.
 
