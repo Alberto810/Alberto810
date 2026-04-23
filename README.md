@@ -57,14 +57,24 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white">
+</div>
 
+#### ⚙️ Frameworks Front-end:
 
+<div style="display: inline_block">
+
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/ANGULAR-DD1100?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
 
 #### 🧪 Ferramentas & Ambiente:
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/VSCODE-2F80ED?style=for-the-badge&logo=codeceptjs&logoColor=white">
 </div> 
 
 
@@ -78,15 +88,12 @@ width="" src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge
 width="" src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div> 
 
- 
 
 #### 🧩 Conhecimentos Complementares (Front-end):
 
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/HTML-a00909?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS" height="" width="" src="https://img.shields.io/badge/CSS-002fff?style=for-the-badge&logo=css3&logoColor=white">
-
-
 </div>
   
 </div>  
