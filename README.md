@@ -48,7 +48,7 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 #### 🚀 Linguagens:
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Python-32547e?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<!--<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> -->
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 </div> 
@@ -57,6 +57,8 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+
+
 </div>
 
 
@@ -70,6 +72,10 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 
 <div style="display: inline_block">
 <img align="center" alt="MySQL" height="" width="" src="https://img.shields.io/badge/MySQL-110595?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="" height=""
+width="" src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img align="center" alt="" height=""
+width="" src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div> 
 
  
