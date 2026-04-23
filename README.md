@@ -1,6 +1,5 @@
-# Alberto Henrique 
+# Alberto Henrique | Estudante de Engenharia de Software 💻 
 
-**`Estudante de Engenharia de Software 💻`**
 
 <br clear="both">
 
