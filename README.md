@@ -57,7 +57,7 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/DJANGO-004027?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
 #### ⚙️ Frameworks Front-end:
