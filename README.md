@@ -101,8 +101,9 @@ width="" src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&lo
 </div>  
  
 </br>
-</div>  
+</div>
 
+<div>
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <desc>Generated with https://github.com/Platane/snk</desc>
     <style>
@@ -2199,4 +2200,4 @@ width="" src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&lo
     <rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6" />
     <rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3" />
 </svg>
-
+</div>
