@@ -26,15 +26,15 @@ Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvo
 
 💡 Principais interesses:
 
--Desenvolvimento de Software
+-Desenvolvimento de Software;
 
--APIs e Engenharia de Dados
+-APIs e Engenharia de Dados;
 
--Inteligência Artificial
+-Inteligência Artificial;
 
--Python e Tecnologias Web
+-Desenvolvimento Back-and com Python;
 
--Arquitetura de Sistemas
+-Arquitetura de Sistemas.
 
 🎯 Objetivo: conquistar oportunidades que me permitam crescer profissionalmente, contribuir com projetos inovadores e gerar impacto positivo através da tecnologia.
 
