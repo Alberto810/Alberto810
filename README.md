@@ -1,13 +1,10 @@
 # Alberto Henrique | Estudante de Engenharia de Software 💻 
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=BOOTING+AI+CORE...;SYSTEM+ONLINE;WELCOME+TO+MY+GITHUB" />
-<br clear="both">
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+MODULE%3A+SOFTWARE_ENGINEER.exe;%3E+ACCESS+GRANTED+%E2%9C%94;%3E+WELCOME+TO+MY+MAINFRAME" alt="Typing SVG" />
 <div align="center">
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00fff2&fontAlignY=38&desc=Software%20Engineer%20%7C%20Building%20the%20future,%20one%20commit%20at%20a%20time&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+MODULE%3A+SOFTWARE_ENGINEER.exe;%3E+ACCESS+GRANTED+%E2%9C%94;%3E+WELCOME+TO+MY+MAINFRAME" alt="Typing SVG" />
-<br/><br/>
  
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00fff2" />
 <img src="https://img.shields.io/badge/CORE-SOFTWARE_ENGINEER-ff00c8?style=for-the-badge&labelColor=0d1117&logo=matrix&logoColor=ff00c8" />
