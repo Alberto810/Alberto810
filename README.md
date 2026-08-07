@@ -1,6 +1,6 @@
 # Alberto Henrique | Estudante de Engenharia de Software 💻 
 
-<img src="https://Alberto810/jarvis_boot_banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Alberto810/jarvis_boot_banner/refs/heads/main/jarvis_boot_banner.svg?token=GHSAT0AAAAAAEDNUTG72RQWGI7UGWYFM2VC2TWCPLQ" width="100%"/>
 
 <br clear="both">
 
