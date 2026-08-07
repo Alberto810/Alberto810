@@ -1,6 +1,6 @@
 # Alberto Henrique | Estudante de Engenharia de Software 💻 
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=BOOTING+AI+CORE...;SYSTEM+ONLINE;WELCOME+TO+MY+GITHUB" />
 <br clear="both">
 
 <a href="https://alberto-portfolio-engenheiro-software.vercel.app/" target="_blank">
