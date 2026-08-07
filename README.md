@@ -5,11 +5,6 @@
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00fff2&fontAlignY=38&desc=Software%20Engineer%20%7C%20Building%20the%20future,%20one%20commit%20at%20a%20time&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 <br/>
- 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00fff2" />
-<img src="https://img.shields.io/badge/CORE-SOFTWARE_ENGINEER-ff00c8?style=for-the-badge&labelColor=0d1117&logo=matrix&logoColor=ff00c8" />
-<img src="https://img.shields.io/badge/UPTIME-24%2F7-1affab?style=for-the-badge&labelColor=0d1117&logo=cachet&logoColor=1affab" />
-</div>
 
 <a href="https://alberto-portfolio-engenheiro-software.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
